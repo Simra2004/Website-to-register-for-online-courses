@@ -1,0 +1,14 @@
+*{
+background-color:darkcyan;
+background-size: cover;
+color: aliceblue;
+justify-content: center;
+}
+.service p{
+    font-size: 36px;
+}
+.head h1{
+    background-color: rgb(90, 9, 9);
+font-size: 50px;
+text-align: center;
+}
